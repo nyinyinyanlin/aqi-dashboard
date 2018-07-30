@@ -11,5 +11,8 @@
     "url": "https://www.github.com/nyinyinyanlin/aqi-dashboard"
   },
   "author": "Nyi Nyi Nyan Lin",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
